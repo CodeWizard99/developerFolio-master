@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/developerFolio-master/static/css/main.c020e5f4.chunk.css",
+    "main.js": "/developerFolio-master/static/js/main.c9f795ce.chunk.js",
+    "main.js.map": "/developerFolio-master/static/js/main.c9f795ce.chunk.js.map",
+    "runtime-main.js": "/developerFolio-master/static/js/runtime-main.43637a8d.js",
+    "runtime-main.js.map": "/developerFolio-master/static/js/runtime-main.43637a8d.js.map",
+    "static/js/2.0328508f.chunk.js": "/developerFolio-master/static/js/2.0328508f.chunk.js",
+    "static/js/2.0328508f.chunk.js.map": "/developerFolio-master/static/js/2.0328508f.chunk.js.map",
+    "static/css/3.df879eac.chunk.css": "/developerFolio-master/static/css/3.df879eac.chunk.css",
+    "static/js/3.c3b2e169.chunk.js": "/developerFolio-master/static/js/3.c3b2e169.chunk.js",
+    "static/js/3.c3b2e169.chunk.js.map": "/developerFolio-master/static/js/3.c3b2e169.chunk.js.map",
+    "static/css/4.e91a4b36.chunk.css": "/developerFolio-master/static/css/4.e91a4b36.chunk.css",
+    "static/js/4.db297c9f.chunk.js": "/developerFolio-master/static/js/4.db297c9f.chunk.js",
+    "static/js/4.db297c9f.chunk.js.map": "/developerFolio-master/static/js/4.db297c9f.chunk.js.map",
+    "index.html": "/developerFolio-master/index.html",
+    "precache-manifest.fc04e5ff10b9b320984ba4fb1e009c5e.js": "/developerFolio-master/precache-manifest.fc04e5ff10b9b320984ba4fb1e009c5e.js",
+    "service-worker.js": "/developerFolio-master/service-worker.js",
+    "static/css/3.df879eac.chunk.css.map": "/developerFolio-master/static/css/3.df879eac.chunk.css.map",
+    "static/css/4.e91a4b36.chunk.css.map": "/developerFolio-master/static/css/4.e91a4b36.chunk.css.map",
+    "static/css/main.c020e5f4.chunk.css.map": "/developerFolio-master/static/css/main.c020e5f4.chunk.css.map",
+    "static/js/2.0328508f.chunk.js.LICENSE.txt": "/developerFolio-master/static/js/2.0328508f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/developerFolio-master/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Logo-Somaiya-Vidyavihar.8600308b.8600308b.jpg": "/developerFolio-master/static/media/Logo-Somaiya-Vidyavihar.8600308b.8600308b.8600308b.jpg",
+    "static/media/codeInLogo.webp": "/developerFolio-master/static/media/codeInLogo.47a7a717.webp",
+    "static/media/contactMailDark.svg": "/developerFolio-master/static/media/contactMailDark.51cf7192.svg",
+    "static/media/developerActivity.svg": "/developerFolio-master/static/media/developerActivity.59389695.svg",
+    "static/media/googleAssistantLogo.webp": "/developerFolio-master/static/media/googleAssistantLogo.e79c6392.webp",
+    "static/media/login2xplore.png": "/developerFolio-master/static/media/login2xplore.2bce3f23.png",
+    "static/media/manOnTable.svg": "/developerFolio-master/static/media/manOnTable.52be3144.svg",
+    "static/media/pwaLogo.webp": "/developerFolio-master/static/media/pwaLogo.ee62cb58.webp",
+    "static/media/skill.svg": "/developerFolio-master/static/media/skill.34409398.svg",
+    "static/media/TalkCard.scss": "/developerFolio-master/static/media/talksCardBack.13780cdd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43637a8d.js",
+    "static/js/2.0328508f.chunk.js",
+    "static/css/main.c020e5f4.chunk.css",
+    "static/js/main.c9f795ce.chunk.js"
+  ]
+}
